@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "color": "Blanco",
+      "imagen": "img-auto-1.jpg",
+      "precio": 25000
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "color": "Plateado",
+      "imagen": "img-auto-2.jpg",
+      "precio": 22000
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Focus",
+      "color": "Azul",
+      "imagen": "img-auto-3.jpg",
+      "precio": 21000
+    },
+    {
+      "id": 4,
+      "marca": "Chevrolet",
+      "modelo": "Cruze",
+      "color": "Negro",
+      "imagen": "img-auto-4.jpg",
+      "precio": 23000
+    },
+    {
+      "id": 5,
+      "marca": "Nissan",
+      "modelo": "Sentra",
+      "color": "Gris",
+      "imagen": "img-auto-5.jpg",
+      "precio": 24000
+    },
+    {
+      "id": 6,
+      "marca": "Volkswagen",
+      "modelo": "Jetta",
+      "color": "Rojo",
+      "imagen": "img-auto-6.jpg",
+      "precio": 26000
+    },
+    {
+      "id": 7,
+      "marca": "Hyundai",
+      "modelo": "Elantra",
+      "color": "Blanco",
+      "imagen": "img-auto-7.jpg",
+      "precio": 23500
+    },
+    {
+      "id": 8,
+      "marca": "Mazda",
+      "modelo": "Mazda3",
+      "color": "Plata",
+      "imagen": "img-auto-8.jpg",
+      "precio": 25500
+    },
+    {
+      "id": 9,
+      "marca": "Kia",
+      "modelo": "Forte",
+      "color": "Negro",
+      "imagen": "img-auto-9.jpg",
+      "precio": 21500
+    },
+    {
+      "id": 10,
+      "marca": "Subaru",
+      "modelo": "Impreza",
+      "color": "Verde",
+      "imagen": "img-auto-10.jpg",
+      "precio": 27000
+    }
+  ]
+  
