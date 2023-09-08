@@ -31,17 +31,19 @@ function carList() {
     return (
       <div>
         <h1>Lista de Marcas de Autos</h1>
-        <ul>
-          {car.map((auto, index) => (
-            <li key={index}>
-              <h2>{auto.marca}</h2>
-              <p>Modelo: {auto.modelo}</p>
-              <p>Color: {auto.color}</p>
-              <p>Precio: {auto.precio}</p>
-              <img src={`/src/assets/img-auto-${index + 1}.jpg`} alt={`${auto.marca} - ${auto.modelo}`} />
-            </li>
-          ))}
-        </ul>
+        {/* <div display={flex}> */}
+          <ul>
+            {car.map((auto, index) => (
+              <li key={index}>
+                <h2>{auto.marca}</h2>
+                <p>Modelo: {auto.modelo}</p>
+                <p>Color: {auto.color}</p>
+                <p>Precio: {auto.precio}</p>
+                <img width={400} src={`/src/assets/img-auto-${index + 1}.jpg`} alt={`${auto.marca} - ${auto.modelo}`} />
+              </li>
+            ))}
+          </ul>
+      {/* </div> */}
       </div>
     );
   }
